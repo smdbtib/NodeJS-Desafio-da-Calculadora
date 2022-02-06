@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-desafio-da-calculadora",
+  "version": "1.0.0",
+  "description": "Velha e Boa Calculadora BackEnd NODE:   \r -  Monte um pacote de node que faça a leitura de dois numeros. -  \r -  Depois execute uma escolha entre as 4 operações. \r -  Por final devolva a operação executada e o resultado de acordo. \r -  O pacote deve usar módulos inquirer e um módulo interno.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smdbtib/NodeJS-Desafio-da-Calculadora.git"
+  },
+  "author": "Samuel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smdbtib/NodeJS-Desafio-da-Calculadora/issues"
+  },
+  "homepage": "https://github.com/smdbtib/NodeJS-Desafio-da-Calculadora#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
